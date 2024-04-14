@@ -1,0 +1,29 @@
+{
+    "name" : "hamza03",
+    "email" : "hamza03@exemple.com",
+    "buttonSignup": "button[data-qa='signup-button']",
+    "radiodata" : "#id_gender1",
+    "password" : "hamza1234?",
+    "selectedDay": "2",
+    "selectedMonth": "June",
+    "selectedyear": "1995",
+    "checkboxdata" : "#newsletter",
+    "firstname" : "hamza",
+    "lastname" : "smida",
+    "company" : "telnet",
+    "address" : "tunis",
+    "selectCountry" : "India",
+    "state" : "ariana",
+    "city" : "ariana",
+    "zipcode" : "1234",
+    "mobileNumber" : "96784512",
+    "buttonCreateAcount" : "button[data-qa='create-account']",
+    "continuebutton" : "button[data-qa='continue-button']",
+    "logoutbutton" : ".nav.navbar-nav li:nth-child(4)",
+    "emailaddress" : "hamza03@exemple.com",
+    "passwd" : "hamza1234?",
+    "loginbutton" : "button[data-qa='login-button']"
+
+
+
+}
